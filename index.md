@@ -1,6 +1,12 @@
 # Header 1
 Committing this message
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Image if YaktoCat](https://octodex.github.com/images/yaktocat.png)
+
+
 
 ```
 $ git init
